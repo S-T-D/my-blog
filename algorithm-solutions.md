@@ -6,4 +6,4 @@
 
 # 字符串 
 
-[1. 字符的最短距离](https://github.com/S-T-D/my-blog/issues/15)
+[821. 字符的最短距离](https://github.com/S-T-D/my-blog/issues/15)
