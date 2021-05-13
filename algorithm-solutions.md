@@ -1,15 +1,17 @@
 # 数组
 
+[88. 合并两个有序数组](https://github.com/S-T-D/my-blog/issues/18)  
 [989. 数组形式的整数加法](https://github.com/S-T-D/my-blog/issues/14)  
-[88. 合并两个有序数组](https://github.com/S-T-D/my-blog/issues/18)
 
 &nbsp;
 
 # 字符串 
 
-[821. 字符的最短距离](https://github.com/S-T-D/my-blog/issues/15)  
-[415. 字符串相加](https://github.com/S-T-D/my-blog/issues/17)  
 [3. 无重复字符的最长子串](https://github.com/S-T-D/my-blog/issues/19)
+[415. 字符串相加](https://github.com/S-T-D/my-blog/issues/17)  
+[821. 字符的最短距离](https://github.com/S-T-D/my-blog/issues/15)  
+
+
 
 &nbsp;
 
