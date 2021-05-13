@@ -7,3 +7,9 @@
 # 字符串 
 
 [821. 字符的最短距离](https://github.com/S-T-D/my-blog/issues/15)
+
+&nbsp;
+
+# 栈
+
+[1381. 设计一个支持增量操作的栈](https://github.com/S-T-D/my-blog/issues/16)
