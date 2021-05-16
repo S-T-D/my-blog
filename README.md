@@ -8,6 +8,6 @@
  
  &nbsp;
  
-# 题解记录
+# 算法
 
 [题解记录](https://github.com/S-T-D/my-blog/blob/main/algorithm-solutions.md)
