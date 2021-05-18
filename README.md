@@ -12,3 +12,5 @@
 
 [题解记录](https://github.com/S-T-D/my-blog/blob/main/algorithm-solutions.md)  
 [排序 (一): 选择排序、插入排序](https://github.com/S-T-D/my-blog/issues/23)  
+[排序 (二): 希尔排序](https://github.com/S-T-D/my-blog/issues/24)  
+
