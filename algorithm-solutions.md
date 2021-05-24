@@ -1,6 +1,7 @@
 # 数组
 
 [1. 两数之和](https://github.com/S-T-D/my-blog/issues/21)    
+[53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29)    
 [88. 合并两个有序数组](https://github.com/S-T-D/my-blog/issues/18)  
 [989. 数组形式的整数加法](https://github.com/S-T-D/my-blog/issues/14)  
 
