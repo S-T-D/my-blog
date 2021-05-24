@@ -5,6 +5,8 @@
 [webpack + React 单页实践#4：引入 TypeScript](https://github.com/S-T-D/my-blog/issues/11)  
 [webpack + React 单页实践#5：引入样式和图片](https://github.com/S-T-D/my-blog/issues/12)  
 [webpack + React 单页实践#6：添加 source map](https://github.com/S-T-D/my-blog/issues/13)  
+[webpack + React 单页实践#7：HMR](https://github.com/S-T-D/my-blog/issues/28)  
+
  
  &nbsp;
  
