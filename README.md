@@ -13,9 +13,12 @@
 # 算法
 
 [题解记录](https://github.com/S-T-D/my-blog/blob/main/algorithm-solutions.md)  
+
 [排序 (一): 选择排序、插入排序](https://github.com/S-T-D/my-blog/issues/23)  
 [排序 (二): 希尔排序](https://github.com/S-T-D/my-blog/issues/24)  
 [排序 (三): 归并排序](https://github.com/S-T-D/my-blog/issues/25)  
 [排序 (四): 归并排序优化](https://github.com/S-T-D/my-blog/issues/26)  
 [排序 (五): 快速排序](https://github.com/S-T-D/my-blog/issues/27)  
+
+[数组乱序](https://github.com/S-T-D/my-blog/issues/32)  
 
