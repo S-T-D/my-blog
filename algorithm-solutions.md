@@ -26,6 +26,7 @@
 
 # 栈
 
+[双栈排序](https://github.com/S-T-D/my-blog/issues/33)  
 [1381. 设计一个支持增量操作的栈](https://github.com/S-T-D/my-blog/issues/16)
 
 &nbsp;
