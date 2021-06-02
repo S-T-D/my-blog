@@ -22,4 +22,4 @@
 
 [数组乱序](https://github.com/S-T-D/my-blog/issues/32)  
 
-[二叉堆](https://github.com/S-T-D/my-blog/issues/34)  
+[二叉堆](https://github.com/S-T-D/my-blog/issues/35)  
