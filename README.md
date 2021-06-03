@@ -23,3 +23,5 @@
 [数组乱序](https://github.com/S-T-D/my-blog/issues/32)  
 
 [二叉堆](https://github.com/S-T-D/my-blog/issues/35)  
+[优先队列](https://github.com/S-T-D/my-blog/issues/36)  
+
