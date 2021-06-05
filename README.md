@@ -19,6 +19,7 @@
 [排序 (三): 归并排序](https://github.com/S-T-D/my-blog/issues/25)  
 [排序 (四): 归并排序优化](https://github.com/S-T-D/my-blog/issues/26)  
 [排序 (五): 快速排序](https://github.com/S-T-D/my-blog/issues/27)  
+[排序 (六): 堆排序](https://github.com/S-T-D/my-blog/issues/37)  
 
 [数组乱序](https://github.com/S-T-D/my-blog/issues/32)  
 
