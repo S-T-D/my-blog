@@ -44,6 +44,7 @@
 
 [17. 电话号码的字母组合](https://github.com/S-T-D/my-blog/issues/42)  
 [39. 组合总和](https://github.com/S-T-D/my-blog/issues/43)  
+[40. 组合总和 II](https://github.com/S-T-D/my-blog/issues/44)  
 [77. 组合](https://github.com/S-T-D/my-blog/issues/40)  
 [216. 组合总和 III](https://github.com/S-T-D/my-blog/issues/41)  
 
