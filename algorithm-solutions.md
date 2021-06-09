@@ -46,6 +46,7 @@
 [39. 组合总和](https://github.com/S-T-D/my-blog/issues/43)  
 [40. 组合总和 II](https://github.com/S-T-D/my-blog/issues/44)  
 [46. 全排列](https://github.com/S-T-D/my-blog/issues/50)   
+[47. 全排列 II](https://github.com/S-T-D/my-blog/issues/51)  
 [77. 组合](https://github.com/S-T-D/my-blog/issues/40)  
 [78. 子集](https://github.com/S-T-D/my-blog/issues/47)  
 [90. 子集 II](https://github.com/S-T-D/my-blog/issues/48)  
