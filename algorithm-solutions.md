@@ -53,6 +53,8 @@
 [93. 复原 IP 地址](https://github.com/S-T-D/my-blog/issues/46)    
 [131. 分割回文串](https://github.com/S-T-D/my-blog/issues/45)  
 [216. 组合总和 III](https://github.com/S-T-D/my-blog/issues/41)   
+[332. 重新安排行程](https://github.com/S-T-D/my-blog/issues/52)  
 [491. 递增子序列](https://github.com/S-T-D/my-blog/issues/49)  
+
 
 
