@@ -65,6 +65,7 @@
 
 [141. 环形链表](https://github.com/S-T-D/my-blog/issues/55)  
 [206. 反转链表](https://github.com/S-T-D/my-blog/issues/53)  
+[剑指 Offer 22. 链表中倒数第k个节点](https://github.com/S-T-D/my-blog/issues/61)  
 
 
 
