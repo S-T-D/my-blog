@@ -4,7 +4,7 @@
 [1. 两数之和](https://github.com/S-T-D/my-blog/issues/21)    
 [27. 移除元素](https://github.com/S-T-D/my-blog/issues/70)  
 [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/S-T-D/my-blog/issues/68)  
-[53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29) 
+[53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29)  
 [88. 合并两个有序数组](https://github.com/S-T-D/my-blog/issues/18)  
 [209. 长度最小的子数组](https://github.com/S-T-D/my-blog/issues/69)  
 [215. 数组中的第K个最大元素](https://github.com/S-T-D/my-blog/issues/34)  
