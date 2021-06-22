@@ -9,6 +9,7 @@
 [209. 长度最小的子数组](https://github.com/S-T-D/my-blog/issues/69)  
 [215. 数组中的第K个最大元素](https://github.com/S-T-D/my-blog/issues/34)  
 [704. 二分查找](https://github.com/S-T-D/my-blog/issues/56)  
+[904. 水果成篮](https://github.com/S-T-D/my-blog/issues/72)  
 [977. 有序数组的平方](https://github.com/S-T-D/my-blog/issues/71)  
 [989. 数组形式的整数加法](https://github.com/S-T-D/my-blog/issues/14)  
 
