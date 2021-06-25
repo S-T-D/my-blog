@@ -22,6 +22,7 @@
 [28. 实现 strStr()](https://github.com/S-T-D/my-blog/issues/73)   
 [165. 比较版本号](https://github.com/S-T-D/my-blog/issues/20)  
 [415. 字符串相加](https://github.com/S-T-D/my-blog/issues/17)  
+[459. 重复的子字符串](https://github.com/S-T-D/my-blog/issues/74)  
 [821. 字符的最短距离](https://github.com/S-T-D/my-blog/issues/15)  
 
 &nbsp;
