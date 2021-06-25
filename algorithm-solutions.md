@@ -19,6 +19,7 @@
 
 [3. 无重复字符的最长子串](https://github.com/S-T-D/my-blog/issues/19)  
 [20. 有效的括号](https://github.com/S-T-D/my-blog/issues/54)  
+[28. 实现 strStr()](https://github.com/S-T-D/my-blog/issues/73)   
 [165. 比较版本号](https://github.com/S-T-D/my-blog/issues/20)  
 [415. 字符串相加](https://github.com/S-T-D/my-blog/issues/17)  
 [821. 字符的最短距离](https://github.com/S-T-D/my-blog/issues/15)  
