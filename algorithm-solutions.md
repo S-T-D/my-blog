@@ -37,6 +37,7 @@
 [145. 二叉树的后序遍历](https://github.com/S-T-D/my-blog/issues/76)  
 [199. 二叉树的右视图](https://github.com/S-T-D/my-blog/issues/78)  
 [257. 二叉树的所有路径](https://github.com/S-T-D/my-blog/issues/30)  
+[637. 二叉树的层平均值](https://github.com/S-T-D/my-blog/issues/79)  
 
 
 &nbsp;
