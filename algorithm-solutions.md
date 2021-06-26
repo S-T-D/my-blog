@@ -29,9 +29,12 @@
 
 # 二叉树
 
+[94. 二叉树的中序遍历](https://github.com/S-T-D/my-blog/issues/77)  
 [102. 二叉树的层序遍历](https://github.com/S-T-D/my-blog/issues/39)  
 [112. 路径总和](https://github.com/S-T-D/my-blog/issues/31)  
 [129. 求根节点到叶节点数字之和](https://github.com/S-T-D/my-blog/issues/38)  
+[144. 二叉树的前序遍历](https://github.com/S-T-D/my-blog/issues/75)  
+[145. 二叉树的后序遍历](https://github.com/S-T-D/my-blog/issues/76)   
 [257. 二叉树的所有路径](https://github.com/S-T-D/my-blog/issues/30)  
 
 
