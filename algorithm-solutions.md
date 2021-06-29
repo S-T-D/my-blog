@@ -41,13 +41,13 @@
 [144. 二叉树的前序遍历](https://github.com/S-T-D/my-blog/issues/75)   
 [145. 二叉树的后序遍历](https://github.com/S-T-D/my-blog/issues/76)  
 [199. 二叉树的右视图](https://github.com/S-T-D/my-blog/issues/78)  
+[222. 完全二叉树的节点个数](https://github.com/S-T-D/my-blog/issues/89)  
 [226. 翻转二叉树 ](https://github.com/S-T-D/my-blog/issues/84)  
 [257. 二叉树的所有路径](https://github.com/S-T-D/my-blog/issues/30)  
 [429. N 叉树的层序遍历](https://github.com/S-T-D/my-blog/issues/80)  
 [515. 在每个树行中找最大值](https://github.com/S-T-D/my-blog/issues/81)  
 [559. N 叉树的最大深度](https://github.com/S-T-D/my-blog/issues/87)  
 [637. 二叉树的层平均值](https://github.com/S-T-D/my-blog/issues/79)  
-
 
 &nbsp;
 
