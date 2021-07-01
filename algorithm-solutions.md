@@ -34,6 +34,7 @@
 [101. 对称二叉树](https://github.com/S-T-D/my-blog/issues/85)  
 [102. 二叉树的层序遍历](https://github.com/S-T-D/my-blog/issues/39)  
 [104. 二叉树的最大深度](https://github.com/S-T-D/my-blog/issues/86)  
+[105. 从前序与中序遍历序列构造二叉树](https://github.com/S-T-D/my-blog/issues/97)  
 [106. 从中序与后序遍历序列构造二叉树](https://github.com/S-T-D/my-blog/issues/96)  
 [110. 平衡二叉树](https://github.com/S-T-D/my-blog/issues/90)  
 [111. 二叉树的最小深度](https://github.com/S-T-D/my-blog/issues/88)  
