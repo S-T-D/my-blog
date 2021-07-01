@@ -106,6 +106,7 @@
 
 # 贪心
 
+[376. 摆动序列](https://github.com/S-T-D/my-blog/issues/99)  
 [455. 分发饼干](https://github.com/S-T-D/my-blog/issues/98)  
 
 
