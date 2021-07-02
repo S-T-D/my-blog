@@ -106,7 +106,8 @@
 
 # 贪心
 
-[53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29)  
+[53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29) 
+[55. 跳跃游戏](https://github.com/S-T-D/my-blog/issues/101)    
 [122. 买卖股票的最佳时机 II](https://github.com/S-T-D/my-blog/issues/100)  
 [376. 摆动序列](https://github.com/S-T-D/my-blog/issues/99)  
 [455. 分发饼干](https://github.com/S-T-D/my-blog/issues/98)  
