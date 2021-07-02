@@ -112,6 +112,7 @@
 [122. 买卖股票的最佳时机 II](https://github.com/S-T-D/my-blog/issues/100)  
 [376. 摆动序列](https://github.com/S-T-D/my-blog/issues/99)  
 [455. 分发饼干](https://github.com/S-T-D/my-blog/issues/98)  
+[1005. K 次取反后最大化的数组和](https://github.com/S-T-D/my-blog/issues/103)  
 
 
 
