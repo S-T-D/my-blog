@@ -4,7 +4,6 @@
 [1. 两数之和](https://github.com/S-T-D/my-blog/issues/21)    
 [27. 移除元素](https://github.com/S-T-D/my-blog/issues/70)  
 [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/S-T-D/my-blog/issues/68)  
-[45. 跳跃游戏 II](https://github.com/S-T-D/my-blog/issues/102)  
 [53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29)  
 [88. 合并两个有序数组](https://github.com/S-T-D/my-blog/issues/18)  
 [209. 长度最小的子数组](https://github.com/S-T-D/my-blog/issues/69)  
@@ -108,6 +107,7 @@
 # 贪心
 
 [53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29)  
+[45. 跳跃游戏 II](https://github.com/S-T-D/my-blog/issues/102)  
 [55. 跳跃游戏](https://github.com/S-T-D/my-blog/issues/101)    
 [122. 买卖股票的最佳时机 II](https://github.com/S-T-D/my-blog/issues/100)  
 [376. 摆动序列](https://github.com/S-T-D/my-blog/issues/99)  
