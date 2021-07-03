@@ -87,6 +87,7 @@
 [216. 组合总和 III](https://github.com/S-T-D/my-blog/issues/41)   
 [332. 重新安排行程](https://github.com/S-T-D/my-blog/issues/52)  
 [491. 递增子序列](https://github.com/S-T-D/my-blog/issues/49)  
+[860. 柠檬水找零](https://github.com/S-T-D/my-blog/issues/106)  
 
 &nbsp;
 
