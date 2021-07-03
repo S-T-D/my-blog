@@ -113,6 +113,7 @@
 [134. 加油站](https://github.com/S-T-D/my-blog/issues/104)  
 [135. 分发糖果](https://github.com/S-T-D/my-blog/issues/105)  
 [376. 摆动序列](https://github.com/S-T-D/my-blog/issues/99)  
+[406. 根据身高重建队列](https://github.com/S-T-D/my-blog/issues/107)  
 [455. 分发饼干](https://github.com/S-T-D/my-blog/issues/98)  
 [860. 柠檬水找零](https://github.com/S-T-D/my-blog/issues/106)  
 [1005. K 次取反后最大化的数组和](https://github.com/S-T-D/my-blog/issues/103)  
