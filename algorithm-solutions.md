@@ -87,7 +87,6 @@
 [216. 组合总和 III](https://github.com/S-T-D/my-blog/issues/41)   
 [332. 重新安排行程](https://github.com/S-T-D/my-blog/issues/52)  
 [491. 递增子序列](https://github.com/S-T-D/my-blog/issues/49)  
-[860. 柠檬水找零](https://github.com/S-T-D/my-blog/issues/106)  
 
 &nbsp;
 
@@ -115,6 +114,7 @@
 [135. 分发糖果](https://github.com/S-T-D/my-blog/issues/105)  
 [376. 摆动序列](https://github.com/S-T-D/my-blog/issues/99)  
 [455. 分发饼干](https://github.com/S-T-D/my-blog/issues/98)  
+[860. 柠檬水找零](https://github.com/S-T-D/my-blog/issues/106)  
 [1005. K 次取反后最大化的数组和](https://github.com/S-T-D/my-blog/issues/103)  
 
 
