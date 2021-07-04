@@ -108,7 +108,8 @@
 
 [53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29)  
 [45. 跳跃游戏 II](https://github.com/S-T-D/my-blog/issues/102)  
-[55. 跳跃游戏](https://github.com/S-T-D/my-blog/issues/101)    
+[55. 跳跃游戏](https://github.com/S-T-D/my-blog/issues/101)   
+[56. 合并区间](https://github.com/S-T-D/my-blog/issues/111)  
 [122. 买卖股票的最佳时机 II](https://github.com/S-T-D/my-blog/issues/100)  
 [134. 加油站](https://github.com/S-T-D/my-blog/issues/104)  
 [135. 分发糖果](https://github.com/S-T-D/my-blog/issues/105)  
