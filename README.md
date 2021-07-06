@@ -22,7 +22,7 @@
 [排序 (六): 堆排序](https://github.com/S-T-D/my-blog/issues/37)  
 
 [数组乱序](https://github.com/S-T-D/my-blog/issues/32)  
-
 [二叉堆](https://github.com/S-T-D/my-blog/issues/35)  
 [优先队列](https://github.com/S-T-D/my-blog/issues/36)  
+[二分查找的标准库写法](https://github.com/S-T-D/my-blog/issues/117)  
 
