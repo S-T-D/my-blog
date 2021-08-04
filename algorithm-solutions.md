@@ -120,6 +120,7 @@
 [122. 买卖股票的最佳时机 II](https://github.com/S-T-D/my-blog/issues/100)  
 [134. 加油站](https://github.com/S-T-D/my-blog/issues/104)  
 [135. 分发糖果](https://github.com/S-T-D/my-blog/issues/105)  
+[179. 最大数](https://github.com/S-T-D/my-blog/issues/127)  
 [376. 摆动序列](https://github.com/S-T-D/my-blog/issues/99)  
 [406. 根据身高重建队列](https://github.com/S-T-D/my-blog/issues/107)  
 [435. 无重叠区间](https://github.com/S-T-D/my-blog/issues/109)  
