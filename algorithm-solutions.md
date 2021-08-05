@@ -16,6 +16,8 @@
 [904. 水果成篮](https://github.com/S-T-D/my-blog/issues/72)  
 [977. 有序数组的平方](https://github.com/S-T-D/my-blog/issues/71)  
 [989. 数组形式的整数加法](https://github.com/S-T-D/my-blog/issues/14)  
+[剑指 Offer 62. 圆圈中最后剩下的数字](https://github.com/S-T-D/my-blog/issues/129)  
+
 
 &nbsp;
 
@@ -23,7 +25,8 @@
 
 [3. 无重复字符的最长子串](https://github.com/S-T-D/my-blog/issues/19)  
 [20. 有效的括号](https://github.com/S-T-D/my-blog/issues/54)  
-[28. 实现 strStr()](https://github.com/S-T-D/my-blog/issues/73)   
+[28. 实现 strStr()](https://github.com/S-T-D/my-blog/issues/73)  
+[151. 翻转字符串里的单词](https://github.com/S-T-D/my-blog/issues/128)  
 [165. 比较版本号](https://github.com/S-T-D/my-blog/issues/20)  
 [415. 字符串相加](https://github.com/S-T-D/my-blog/issues/17)  
 [459. 重复的子字符串](https://github.com/S-T-D/my-blog/issues/74)  
