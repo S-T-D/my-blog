@@ -140,7 +140,8 @@
 
 # 动态规划
 
-[62. 不同路径](https://github.com/S-T-D/my-blog/issues/131)   
+[62. 不同路径](https://github.com/S-T-D/my-blog/issues/131)  
+[64. 最小路径和](https://github.com/S-T-D/my-blog/issues/135)  
 [70. 爬楼梯](https://github.com/S-T-D/my-blog/issues/115)  
 [72. 编辑距离](https://github.com/S-T-D/my-blog/issues/134)  
 [121. 买卖股票的最佳时机](https://github.com/S-T-D/my-blog/issues/119)  
@@ -149,5 +150,5 @@
 [322. 零钱兑换](https://github.com/S-T-D/my-blog/issues/133)   
 [509. 斐波那契数](https://github.com/S-T-D/my-blog/issues/114)  
 [746. 使用最小花费爬楼梯](https://github.com/S-T-D/my-blog/issues/130)  
-
+[1143. 最长公共子序列](https://github.com/S-T-D/my-blog/issues/136)  
 
