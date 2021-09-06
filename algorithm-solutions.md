@@ -63,6 +63,7 @@
 [429. N 叉树的层序遍历](https://github.com/S-T-D/my-blog/issues/80)  
 [513. 找树左下角的值](https://github.com/S-T-D/my-blog/issues/94)  
 [515. 在每个树行中找最大值](https://github.com/S-T-D/my-blog/issues/81)  
+[543. 二叉树的直径](https://github.com/S-T-D/my-blog/issues/143)  
 [559. N 叉树的最大深度](https://github.com/S-T-D/my-blog/issues/87)  
 [572. 另一个树的子树](https://github.com/S-T-D/my-blog/issues/92)  
 [637. 二叉树的层平均值](https://github.com/S-T-D/my-blog/issues/79)  
