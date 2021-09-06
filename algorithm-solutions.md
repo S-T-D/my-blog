@@ -30,6 +30,7 @@
 [151. 翻转字符串里的单词](https://github.com/S-T-D/my-blog/issues/128)  
 [165. 比较版本号](https://github.com/S-T-D/my-blog/issues/20)  
 [415. 字符串相加](https://github.com/S-T-D/my-blog/issues/17)  
+[461. 汉明距离](https://github.com/S-T-D/my-blog/issues/142)  
 [459. 重复的子字符串](https://github.com/S-T-D/my-blog/issues/74)  
 [821. 字符的最短距离](https://github.com/S-T-D/my-blog/issues/15)  
 
