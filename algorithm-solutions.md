@@ -6,6 +6,7 @@
 [15. 三数之和](https://github.com/S-T-D/my-blog/issues/116)  
 [27. 移除元素](https://github.com/S-T-D/my-blog/issues/70)  
 [31. 下一个排列](https://github.com/S-T-D/my-blog/issues/147)  
+[33. 搜索旋转排序数组](https://github.com/S-T-D/my-blog/issues/148)  
 [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/S-T-D/my-blog/issues/68)  
 [53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29)  
 [88. 合并两个有序数组](https://github.com/S-T-D/my-blog/issues/18)  
