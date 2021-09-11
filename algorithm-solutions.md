@@ -9,6 +9,7 @@
 [33. 搜索旋转排序数组](https://github.com/S-T-D/my-blog/issues/148)  
 [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/S-T-D/my-blog/issues/68)  
 [53. 最大子序和](https://github.com/S-T-D/my-blog/issues/29)  
+[75. 颜色分类](https://github.com/S-T-D/my-blog/issues/150)  
 [88. 合并两个有序数组](https://github.com/S-T-D/my-blog/issues/18)  
 [200. 岛屿数量](https://github.com/S-T-D/my-blog/issues/123)    
 [209. 长度最小的子数组](https://github.com/S-T-D/my-blog/issues/69)  
