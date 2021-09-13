@@ -44,6 +44,7 @@
 # 二叉树
 
 [94. 二叉树的中序遍历](https://github.com/S-T-D/my-blog/issues/77)  
+[98. 验证二叉搜索树](https://github.com/S-T-D/my-blog/issues/151)  
 [100. 相同的树](https://github.com/S-T-D/my-blog/issues/91)  
 [101. 对称二叉树](https://github.com/S-T-D/my-blog/issues/85)  
 [102. 二叉树的层序遍历](https://github.com/S-T-D/my-blog/issues/39)  
