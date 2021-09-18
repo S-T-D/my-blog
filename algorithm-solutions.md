@@ -67,6 +67,7 @@
 [222. 完全二叉树的节点个数](https://github.com/S-T-D/my-blog/issues/89)  
 [226. 翻转二叉树 ](https://github.com/S-T-D/my-blog/issues/84)  
 [230. 二叉搜索树中第K小的元素](https://github.com/S-T-D/my-blog/issues/124)  
+[236. 二叉树的最近公共祖先](https://github.com/S-T-D/my-blog/issues/155)  
 [257. 二叉树的所有路径](https://github.com/S-T-D/my-blog/issues/30)  
 [404. 左叶子之和](https://github.com/S-T-D/my-blog/issues/93)  
 [429. N 叉树的层序遍历](https://github.com/S-T-D/my-blog/issues/80)  
