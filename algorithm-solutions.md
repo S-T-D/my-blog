@@ -12,6 +12,7 @@
 [75. 颜色分类](https://github.com/S-T-D/my-blog/issues/150)  
 [88. 合并两个有序数组](https://github.com/S-T-D/my-blog/issues/18)  
 [128. 最长连续序列](https://github.com/S-T-D/my-blog/issues/153)  
+[152. 乘积最大子数组](https://github.com/S-T-D/my-blog/issues/154)  
 [200. 岛屿数量](https://github.com/S-T-D/my-blog/issues/123)    
 [209. 长度最小的子数组](https://github.com/S-T-D/my-blog/issues/69)  
 [215. 数组中的第K个最大元素](https://github.com/S-T-D/my-blog/issues/34)  
