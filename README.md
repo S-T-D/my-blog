@@ -2,7 +2,7 @@
 
 [对象](https://github.com/S-T-D/my-blog/issues/158)  
 [null 和 undefined](https://github.com/S-T-D/my-blog/issues/156)  
-[我理解的——函数柯里化](https://github.com/S-T-D/my-blog/issues/159)  
+[函数柯里化](https://github.com/S-T-D/my-blog/issues/159)  
 
 &nbsp;
 
